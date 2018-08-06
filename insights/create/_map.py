@@ -1,1 +1,0 @@
-"""Map-style Visualizations which can be set on an ArcGIS Insights Card."""

@@ -59,6 +59,10 @@ class Workbook:
     def basemap(self):
         raise NotImplementedError
 
+    @property
+    def details(self):
+        raise NotImplementedError
+
     def add_data(self, uri):
         raise NotImplementedError
 
