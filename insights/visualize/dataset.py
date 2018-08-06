@@ -3,7 +3,7 @@
 import enum
 
 
-class Categories(enum.Enum):
+class Concept(enum.Enum):
     Measurement = 0
     Relationship = 1
     Change = 2

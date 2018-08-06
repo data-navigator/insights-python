@@ -1,7 +1,7 @@
 # coding=utf-8
 
-"""Find nearest spatial data."""
+"""Clean data."""
 
 
-def nearest():
+def data():
     raise NotImplementedError

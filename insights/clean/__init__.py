@@ -1,5 +1,5 @@
 # coding=utf-8
 
-"""Data enrichment use cases."""
+"""Use cases for cleaning."""
 
 from .data import *
