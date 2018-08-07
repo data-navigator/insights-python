@@ -2,69 +2,68 @@
 
 """Chart-style visualization on an ArcGIS Insights Card."""
 
-from .. import Card
-from .. import Data
+from .. import Card, Dataset
 
 
-def bar_chart(data: Data) -> Card:
+def bar_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def column_chart(data: Data) -> Card:
+def column_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def donut_chart(data: Data) -> Card:
+def donut_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def histogram(data: Data) -> Card:
+def histogram(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def scatter_plot(data: Data) -> Card:
+def scatter_plot(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def time_series_graph(data: Data) -> Card:
+def time_series_graph(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def treemap(data: Data) -> Card:
+def treemap(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def bubble_chart(data: Data) -> Card:
+def bubble_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def line_chart(data: Data) -> Card:
+def line_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def chord_diagram(data: Data) -> Card:
+def chord_diagram(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def data_clock(data: Data) -> Card:
+def data_clock(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def heat_chart(data: Data) -> Card:
+def heat_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def box_plot(data: Data) -> Card:
+def box_plot(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def link_chart(data: Data) -> Card:
+def link_chart(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def scatter_plot_matrix(data: Data) -> Card:
+def scatter_plot_matrix(data: Dataset) -> Card:
     raise NotImplementedError
 
 
-def combo_chart(data: Data) -> Card:
+def combo_chart(data: Dataset) -> Card:
     raise NotImplementedError

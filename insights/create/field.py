@@ -2,8 +2,8 @@
 
 """Create an individual field within an ArcGIS Insights Dataset."""
 
-from .. import Field
+from .. import Dataset, Field
 
 
-def field(name: str) -> Data:
+def field(data: Dataset, field_name: str, field_type) -> Dataset:
     raise NotImplementedError

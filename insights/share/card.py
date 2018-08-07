@@ -2,6 +2,8 @@
 
 """Share an ArcGIS Insights card."""
 
+from .. import Card
 
-def card():
+
+def card(card: Card) -> str:
     raise NotImplementedError

@@ -2,6 +2,10 @@
 
 """An ArcGIS Insights Card."""
 
+from .dataset import Dataset
+
 
 class Card:
-    pass
+    @property
+    def dataset(self) -> Dataset:
+        raise NotImplementedError

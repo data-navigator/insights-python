@@ -2,6 +2,8 @@
 
 """Analysis Model."""
 
+from .. import Model
 
-def model(url: str) -> str:
+
+def model(url: str) -> Model:
     raise NotImplementedError

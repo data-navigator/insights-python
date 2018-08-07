@@ -2,6 +2,8 @@
 
 """Share an ArcGIS Insights workbook."""
 
+from .. import Workbook
 
-def workbook():
+
+def workbook(workbook: Workbook) -> str:
     raise NotImplementedError

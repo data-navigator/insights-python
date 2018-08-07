@@ -2,6 +2,8 @@
 
 """Spatially filter data."""
 
+from .. import Dataset, Result
 
-def spatial_data():
+
+def spatial_data(data: Dataset, filter) -> Result:
     raise NotImplementedError

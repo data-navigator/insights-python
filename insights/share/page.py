@@ -2,6 +2,8 @@
 
 """Share an ArcGIS Insights page."""
 
+from .. import Page
 
-def page():
+
+def page(page: Page) -> str:
     raise NotImplementedError

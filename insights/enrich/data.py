@@ -2,6 +2,8 @@
 
 """Enrich Data."""
 
+from .. import Result
 
-def data():
+
+def data() -> Result:
     raise NotImplementedError

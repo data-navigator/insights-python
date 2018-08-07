@@ -2,6 +2,8 @@
 
 """Share ArcGIS Insights data."""
 
+from .. import Dataset
 
-def data():
+
+def data(data: Dataset) -> str:
     raise NotImplementedError

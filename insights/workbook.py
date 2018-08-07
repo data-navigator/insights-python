@@ -3,6 +3,10 @@
 """An ArcGIS Insights Workbook"""
 
 import enum
+from typing import Iterator
+from .card import Card
+from .dataset import Dataset
+from .page import Page
 
 
 class View(enum.Enum):
@@ -44,7 +48,7 @@ class Workbook:
         raise NotImplementedError
 
     @property
-    def pages(self):
+    def pages(self) -> Iterator[Page]:
         raise NotImplementedError
 
     @property
@@ -63,13 +67,13 @@ class Workbook:
     def details(self):
         raise NotImplementedError
 
-    def add_data(self, uri):
+    def add_data(self, data: Dataset):
         raise NotImplementedError
 
-    def add_page(self, name):
+    def add_page(self, page: Page):
         raise NotImplementedError
 
-    def duplicate(self):
+    def duplicate(self) -> Workbook:
         raise NotImplementedError
 
     def delete(self):

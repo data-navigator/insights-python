@@ -2,8 +2,8 @@
 
 """Create an ArcGIS Insights Dataset."""
 
-from .. import Data
+from .. import Dataset
 
 
-def data(source: str) -> Data:
+def data(source: str) -> Dataset:
     raise NotImplementedError

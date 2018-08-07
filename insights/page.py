@@ -3,6 +3,9 @@
 """A Page within an ArcGIS Insights Workbook."""
 
 import enum
+from typing import Iterator
+from .card import Card
+from .model import Model
 
 
 class Sizes(enum.Enum):
@@ -23,6 +26,14 @@ class Page:
     """Represents an individual page within an ArcGIS Insights Workbook."""
     def __init__(self):
         pass
+
+    @property
+    def cards(self) -> Iterator[Card]:
+        raise NotImplementedError
+
+    @property
+    def model(self) -> Model:
+        raise NotImplementedError
 
     @property
     def size(self):

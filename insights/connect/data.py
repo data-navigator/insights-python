@@ -2,22 +2,24 @@
 
 """Various sources of data."""
 
+from .. import Dataset
 
-def csv(path: str) -> str:
+
+def csv(path: str) -> Dataset:
     raise NotImplementedError
 
 
-def excel(path: str) -> str:
+def excel(path: str) -> Dataset:
     raise NotImplementedError
 
 
-def group(url: str) -> str:
+def group(url: str) -> Dataset:
     raise NotImplementedError
 
 
-def organization(url: str) -> str:
+def organization(url: str) -> Dataset:
     raise NotImplementedError
 
 
-def user(url: str) -> str:
+def user(url: str) -> Dataset:
     raise NotImplementedError

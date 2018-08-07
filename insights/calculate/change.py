@@ -1,0 +1,9 @@
+# coding=utf-8
+
+"""Calculate change in data."""
+
+from .. import Dataset, Result
+
+
+def change(dataset: Dataset) -> Result:
+    raise NotImplementedError

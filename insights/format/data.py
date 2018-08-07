@@ -2,6 +2,8 @@
 
 """Format data."""
 
+from .. import Dataset, Result
 
-def data():
+
+def data(data: Dataset, shape) -> Result:
     raise NotImplementedError

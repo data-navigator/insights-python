@@ -2,6 +2,8 @@
 
 """Predict a variable."""
 
+from .. import Dataset, Result
 
-def variable():
+
+def variable(data: Dataset) -> Result:
     raise NotImplementedError

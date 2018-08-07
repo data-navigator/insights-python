@@ -2,6 +2,8 @@
 
 """Find nearest spatial data."""
 
+from .. import Dataset, Result
 
-def nearest():
+
+def nearest(data: Dataset, location) -> Result:
     raise NotImplementedError

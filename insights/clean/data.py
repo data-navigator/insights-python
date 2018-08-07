@@ -2,6 +2,8 @@
 
 """Clean data."""
 
+from .. import Dataset, Result
 
-def data():
+
+def data(dataset: Dataset) -> Result:
     raise NotImplementedError
