@@ -2,4 +2,6 @@
 
 """Prediction use-cases."""
 
-from .variable import *
+from .variable import variable
+
+__all__ = ['variable']

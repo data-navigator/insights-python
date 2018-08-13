@@ -2,4 +2,6 @@
 
 """Find use-cases."""
 
-from nearest import *
+from .nearest import nearest
+
+__all__ = ['nearest']

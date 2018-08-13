@@ -6,4 +6,12 @@ from .. import Dataset, Result
 
 
 def links(dataset: Dataset) -> Result:
+    """[summary]
+
+    [description]
+
+    :param dataset: [description]
+    :type dataset: Dataset
+    :raises NotImplementedError: [description]
+    """
     raise NotImplementedError

@@ -2,4 +2,6 @@
 
 """Analysis use-cases."""
 
-from .links import *
+from .links import links
+
+__all__ = ['links']

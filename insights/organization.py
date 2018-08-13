@@ -16,16 +16,36 @@ class Organization:
 
     @property
     def name(self) -> str:
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def url(self) -> str:
+        """[summary]
+
+        [description]
+        """
         return self.__url
 
     @property
     def workbooks(self) -> Iterator[Workbook]:
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def user(self):
+        """[summary]
+
+        [description]
+        """
         return self.user

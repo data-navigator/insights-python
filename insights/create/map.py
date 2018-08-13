@@ -6,14 +6,39 @@ from .. import Card, Dataset
 
 
 def binned_map(data: Dataset) -> Card:
+    """[summary]
+
+    [description]
+
+    :param data: [description]
+    :type data: Dataset
+    :raises NotImplementedError: [description]
+    """
     raise NotImplementedError
 
 
 def category_map(data: Dataset) -> Card:
+    """[summary]
+
+    [description]
+
+    :param data: [description]
+    :type data: Dataset
+    :raises NotImplementedError: [description]
+    """
     raise NotImplementedError
 
 
 def choropleth_map(data: Dataset) -> Card:
+    """[summary]
+
+    [description]
+
+    :param data: [description]
+    :type data: Dataset
+    :raises NotImplementedError: [description]
+    """
+
     raise NotImplementedError
 
 

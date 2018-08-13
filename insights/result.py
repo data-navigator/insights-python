@@ -4,4 +4,9 @@
 
 
 class Result:
+    """[summary]
+
+    [description]
+
+    """
     pass

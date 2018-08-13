@@ -2,4 +2,6 @@
 
 """Data enrichment use cases."""
 
-from .data import *
+from .data import data
+
+__all__ = ['data']

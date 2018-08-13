@@ -9,6 +9,13 @@ from .model import Model
 
 
 class Sizes(enum.Enum):
+    """[summary]
+
+    [description]
+
+    :param enum: [description]
+    :type enum: [type]
+    """
     Letter = 0
     Legal = 1
     A3 = 2
@@ -18,6 +25,13 @@ class Sizes(enum.Enum):
 
 
 class Orientation(enum.Enum):
+    """[summary]
+
+    [description]
+
+    :param enum: [description]
+    :type enum: [type]
+    """
     Portratit = 0
     Landscape = 1
 
@@ -29,24 +43,60 @@ class Page:
 
     @property
     def cards(self) -> Iterator[Card]:
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def model(self) -> Model:
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def size(self):
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def orientation(self):
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def background(self):
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError
 
     @property
     def foreground(self):
+        """[summary]
+
+        [description]
+
+        :raises NotImplementedError: [description]
+        """
         raise NotImplementedError

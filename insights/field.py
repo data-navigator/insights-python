@@ -2,4 +2,14 @@
 
 
 class Field:
-    pass
+    """TODO"""
+
+    @property
+    def name(self):
+        """TODO"""
+        raise NotImplementedError
+
+    @property
+    def type(self):
+        """TODO"""
+        raise NotImplementedError

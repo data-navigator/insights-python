@@ -6,4 +6,12 @@ from .. import Model
 
 
 def model(url: str) -> Model:
+    """[summary]
+
+    [description]
+
+    :param url: [description]
+    :type url: str
+    :raises NotImplementedError: [description]
+    """
     raise NotImplementedError
