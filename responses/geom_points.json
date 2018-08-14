@@ -1,0 +1,5414 @@
+{
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [{
+        "name": "OBJECTID",
+        "alias": "OBJECTID",
+        "type": "esriFieldTypeInteger"
+    }, {
+        "name": "CompanyID",
+        "alias": "CompanyID",
+        "type": "esriFieldTypeString"
+    }, {
+        "name": "Province",
+        "alias": "Province",
+        "type": "esriFieldTypeString"
+    }],
+    "globalIdFieldName": "",
+    "objectIdFieldName": "esri_oid",
+    "exceededTransferLimit": false,
+    "features": [{
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 2
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 3
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 4
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 5
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 6
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 7
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 8
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 9
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 10
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 11
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 12
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 13
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 14
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 15
+        },
+        "geometry": {
+            "x": -1.358542821038793E7,
+            "y": 4614707.70578418
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 16
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 17
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 18
+        },
+        "geometry": {
+            "x": -1.0786426533861343E7,
+            "y": 3885553.9396802215
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 19
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 20
+        },
+        "geometry": {
+            "x": -1.0786426533861343E7,
+            "y": 3885553.9396802215
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 21
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 22
+        },
+        "geometry": {
+            "x": -1.0786426533861343E7,
+            "y": 3885553.9396802215
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 23
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 24
+        },
+        "geometry": {
+            "x": -1.0786426533861343E7,
+            "y": 3885553.9396802215
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 25
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 26
+        },
+        "geometry": {
+            "x": -1.0786426533861343E7,
+            "y": 3885553.9396802215
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 27
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 29
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 31
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 33
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 35
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 36
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 38
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 40
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 42
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 44
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 46
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 48
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 50
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 52
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 54
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 56
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 58
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 60
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 62
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 64
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 66
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 68
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 69
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 72
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 74
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 76
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 78
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 80
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 82
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 84
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 86
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 87
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 89
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 91
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 93
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 95
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 97
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 99
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 101
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 103
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 105
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 107
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 109
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 111
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 113
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 115
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 117
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 119
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 121
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 122
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 124
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 126
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 128
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 130
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 132
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 134
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 136
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 138
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 140
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 142
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 144
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 146
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 148
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 150
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 152
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 154
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 156
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 158
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 160
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 162
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 164
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 166
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 168
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 170
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 172
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 174
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 176
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 178
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 180
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 182
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 184
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 186
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 188
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 190
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 192
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 193
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 195
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 204
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 206
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 207
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 209
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 211
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 213
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 215
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 217
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 220
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 221
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 223
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 225
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 227
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 229
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 231
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 233
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 235
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 237
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 240
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 242
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 244
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 246
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 247
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 248
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 249
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 250
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 251
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "KS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 252
+        },
+        "geometry": {
+            "x": -1.0545897890500033E7,
+            "y": 4442408.216858333
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 253
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 254
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 255
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 256
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 257
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 258
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 259
+        },
+        "geometry": {
+            "x": -1.1338458149338143E7,
+            "y": 3972261.596550133
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 260
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 262
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 264
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 265
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 267
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 269
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 271
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 273
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 275
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 277
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 279
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 281
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 283
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 285
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 287
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 290
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 292
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 294
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 296
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 298
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 300
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 302
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 304
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 307
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 309
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 311
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 313
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 314
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 317
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 318
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 320
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 322
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 324
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 326
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 328
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 330
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 332
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 334
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 336
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 338
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 340
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 341
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 343
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 344
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 345
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 346
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 348
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 349
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 351
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 352
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 354
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 355
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 357
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 358
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 360
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 361
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 363
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 364
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 365
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 367
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 368
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 370
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 371
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 373
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 374
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 375
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 377
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 378
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 380
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 381
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 382
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 384
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 385
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 387
+        },
+        "geometry": {
+            "x": -1.0775759321948774E7,
+            "y": 3866603.441040692
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 388
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 390
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 391
+        },
+        "geometry": {
+            "x": -1.1686841138287E7,
+            "y": 4828097.45790086
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 392
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 394
+        },
+        "geometry": {
+            "x": -1.1686841138287E7,
+            "y": 4828097.45790086
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 395
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 397
+        },
+        "geometry": {
+            "x": -1.1686841138287E7,
+            "y": 4828097.45790086
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 398
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 400
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 401
+        },
+        "geometry": {
+            "x": -1.1686841138287E7,
+            "y": 4828097.45790086
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 403
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 404
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 406
+        },
+        "geometry": {
+            "x": -1.1686841138287E7,
+            "y": 4828097.45790086
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 407
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 409
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 412
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 415
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 418
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 419
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 422
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 425
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 427
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 429
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 432
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 435
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 436
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 439
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 440
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 443
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 445
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 448
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 450
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 453
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 456
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 459
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 462
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 464
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 467
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 470
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 473
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 475
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 478
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 481
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 484
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 486
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 488
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 491
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 494
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 497
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 499
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 502
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 505
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 508
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 510
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 513
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 515
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 517
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 520
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 522
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 524
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 527
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 530
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 534
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 538
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 542
+        },
+        "geometry": {
+            "x": -1.308213284417011E7,
+            "y": 4027818.6048631747
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 547
+        },
+        "geometry": {
+            "x": -1.308213284417011E7,
+            "y": 4027818.6048631747
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 550
+        },
+        "geometry": {
+            "x": -1.308213284417011E7,
+            "y": 4027818.6048631747
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 553
+        },
+        "geometry": {
+            "x": -1.308213284417011E7,
+            "y": 4027818.6048631747
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 554
+        },
+        "geometry": {
+            "x": -1.308213284417011E7,
+            "y": 4027818.6048631747
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 557
+        },
+        "geometry": {
+            "x": -1.308213284417011E7,
+            "y": 4027818.6048631747
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 577
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 579
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 582
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 586
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 588
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 591
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 595
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 598
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 603
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 606
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 609
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 613
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 615
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 619
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 622
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 625
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 628
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 631
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 635
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 637
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 641
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 644
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 648
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 651
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 654
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 657
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 660
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 662
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 665
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 667
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 670
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 672
+        },
+        "geometry": {
+            "x": -1.3129177287192607E7,
+            "y": 3998486.027555326
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 673
+        },
+        "geometry": {
+            "x": -1.0855478046617022E7,
+            "y": 4227624.448780846
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 675
+        },
+        "geometry": {
+            "x": -1.3129177287192607E7,
+            "y": 3998486.027555326
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 677
+        },
+        "geometry": {
+            "x": -1.3129177287192607E7,
+            "y": 3998486.027555326
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 678
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 681
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 686
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 690
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 694
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 696
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 700
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 703
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 706
+        },
+        "geometry": {
+            "x": -1.3096835931197004E7,
+            "y": 4037328.5654996117
+        }
+    }, {
+        "attributes": {
+            "Province": "AZ",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 710
+        },
+        "geometry": {
+            "x": -1.2476017784652146E7,
+            "y": 3954985.450220133
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 714
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 717
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 719
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 721
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 724
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 727
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 729
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 731
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 734
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 736
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 738
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 740
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 742
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 744
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 746
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 748
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 750
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 752
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 754
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 756
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 758
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 760
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 762
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 764
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 766
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 767
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 769
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 771
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 774
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 775
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 778
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 780
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 782
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 784
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 786
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 788
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 790
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 792
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 793
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 795
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 796
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 797
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 798
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 799
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 800
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 801
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 802
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 803
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 804
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 805
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 806
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 807
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 808
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 809
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 810
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 811
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 812
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 813
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 814
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "CO",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 815
+        },
+        "geometry": {
+            "x": -1.1672681603405584E7,
+            "y": 4854223.768493978
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 816
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 817
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 818
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 819
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 820
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 821
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 822
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 823
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 824
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 825
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 826
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 827
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 828
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 829
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 830
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 831
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 832
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 833
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 834
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 835
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 836
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 837
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 838
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 839
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 840
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 841
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 842
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 843
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 844
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 845
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 846
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 847
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 848
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 849
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 850
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 851
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 852
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 853
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 854
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 855
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 856
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 857
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 858
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 859
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 860
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 861
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 862
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 863
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 864
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 865
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 866
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 867
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 868
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 869
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 870
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 871
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 872
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 873
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 874
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 875
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 876
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 877
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 878
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 879
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 880
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 881
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 882
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 883
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 884
+        },
+        "geometry": {
+            "x": -1.0615791909125727E7,
+            "y": 3473161.1326796557
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 885
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 887
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 889
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 890
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 891
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 892
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 893
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 894
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 895
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 896
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 897
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 898
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 899
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "TN",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 900
+        },
+        "geometry": {
+            "x": -1.0024210076561369E7,
+            "y": 4184212.811726002
+        }
+    }, {
+        "attributes": {
+            "Province": "AZ",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 901
+        },
+        "geometry": {
+            "x": -1.2476017784652146E7,
+            "y": 3954985.450220133
+        }
+    }, {
+        "attributes": {
+            "Province": "AZ",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 902
+        },
+        "geometry": {
+            "x": -1.2476017784652146E7,
+            "y": 3954985.450220133
+        }
+    }, {
+        "attributes": {
+            "Province": "AZ",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 903
+        },
+        "geometry": {
+            "x": -1.2476017784652146E7,
+            "y": 3954985.450220133
+        }
+    }, {
+        "attributes": {
+            "Province": "AZ",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 904
+        },
+        "geometry": {
+            "x": -1.2476017784652146E7,
+            "y": 3954985.450220133
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 984
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 985
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 986
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 987
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 988
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 989
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 990
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 991
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "CA",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 992
+        },
+        "geometry": {
+            "x": -1.3524693046393167E7,
+            "y": 4661898.52736856
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 993
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 994
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 995
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 996
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 997
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 998
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 999
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1000
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1001
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1002
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1003
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "UT",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1004
+        },
+        "geometry": {
+            "x": -1.2455648165963165E7,
+            "y": 4977141.897239819
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1005
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1006
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1007
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1008
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1009
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1010
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1011
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1012
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1013
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1014
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1015
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "TX",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1016
+        },
+        "geometry": {
+            "x": -1.096425643091867E7,
+            "y": 3429732.452424782
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1017
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1018
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1019
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1020
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1021
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1022
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1023
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1024
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1025
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1026
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1027
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1028
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1029
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1030
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1031
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1032
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1033
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1034
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1035
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1036
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "MS",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1037
+        },
+        "geometry": {
+            "x": -1.0020147023906559E7,
+            "y": 4162396.5394845787
+        }
+    }, {
+        "attributes": {
+            "Province": "OK",
+            "CompanyID": "ALLWEAR INC.",
+            "OBJECTID": 1045
+        },
+        "geometry": {
+            "x": -1.0685869376706282E7,
+            "y": 4321847.962518133
+        }
+    }]
+}

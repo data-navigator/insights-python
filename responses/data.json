@@ -1,0 +1,17 @@
+{
+    "format": 9,
+    "title": "Untitled Workbook",
+    "pages": [{
+        "title": "Page 1",
+        "model": {
+            "items": []
+        },
+        "cards": [],
+        "layout": [],
+        "contents": []
+    }],
+    "activePage": 0,
+    "workspace": {
+        "datasets": {}
+    }
+}

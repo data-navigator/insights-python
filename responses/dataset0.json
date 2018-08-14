@@ -1,0 +1,184 @@
+{
+    "id": "4D2DAAAC-9C2B-E811-80C3-0003FF2A4867",
+    "name": "Allwear",
+    "fields": [{
+        "name": "OBJECTID",
+        "alias": "OBJECTID",
+        "type": "esriFieldTypeOID",
+        "entity": "e0"
+    }, {
+        "name": "CompanyID",
+        "alias": "CompanyID",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "year_InvoiceDat",
+        "alias": "InvoiceDat - Year",
+        "type": "esriFieldTypeInteger",
+        "role": "year",
+        "entity": "e0"
+    }, {
+        "name": "quarter_InvoiceDat",
+        "alias": "InvoiceDat - Quarter",
+        "type": "esriFieldTypeInteger",
+        "role": "quarter",
+        "entity": "e0"
+    }, {
+        "name": "month_InvoiceDat",
+        "alias": "InvoiceDat - Month",
+        "type": "esriFieldTypeInteger",
+        "role": "month",
+        "entity": "e0"
+    }, {
+        "name": "dayofmonth_InvoiceDat",
+        "alias": "InvoiceDat - Dayofmonth",
+        "type": "esriFieldTypeInteger",
+        "role": "day-of-month",
+        "entity": "e0"
+    }, {
+        "name": "dayofweek_InvoiceDat",
+        "alias": "InvoiceDat - Dayofweek",
+        "type": "esriFieldTypeInteger",
+        "role": "day-of-week",
+        "entity": "e0"
+    }, {
+        "name": "hour_InvoiceDat",
+        "alias": "InvoiceDat - Hour",
+        "type": "esriFieldTypeInteger",
+        "role": "hour",
+        "entity": "e0"
+    }, {
+        "name": "minute_InvoiceDat",
+        "alias": "InvoiceDat - Minute",
+        "type": "esriFieldTypeInteger",
+        "role": "minute",
+        "entity": "e0"
+    }, {
+        "name": "InvoiceDat",
+        "alias": "InvoiceDat",
+        "type": "esriFieldTypeDate",
+        "entity": "e0"
+    }, {
+        "name": "Customer",
+        "alias": "Customer",
+        "type": "esriFieldTypeInteger",
+        "entity": "e0"
+    }, {
+        "name": "Item",
+        "alias": "Item",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "Country",
+        "alias": "Country",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "Province",
+        "alias": "Province",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "City",
+        "alias": "City",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "ZipCode",
+        "alias": "ZipCode",
+        "type": "esriFieldTypeInteger",
+        "entity": "e0"
+    }, {
+        "name": "SalesRep",
+        "alias": "SalesRep",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "Branch",
+        "alias": "Branch",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "Location",
+        "alias": "Location",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "SalesAmtHo",
+        "alias": "SalesAmount",
+        "type": "esriFieldTypeDouble",
+        "entity": "e0"
+    }, {
+        "name": "Qty",
+        "alias": "Qty",
+        "type": "esriFieldTypeInteger",
+        "entity": "e0"
+    }, {
+        "name": "InvoiceNum",
+        "alias": "InvoiceNum",
+        "type": "esriFieldTypeString",
+        "entity": "e0"
+    }, {
+        "name": "InvoiceLin",
+        "alias": "InvoiceLin",
+        "type": "esriFieldTypeInteger",
+        "entity": "e0"
+    }, {
+        "name": "EXCEL_POIN",
+        "alias": "EXCEL_POIN",
+        "type": "esriFieldTypeDouble",
+        "entity": "e0"
+    }, {
+        "name": "EXCEL_PO_1",
+        "alias": "EXCEL_PO_1",
+        "type": "esriFieldTypeDouble",
+        "entity": "e0"
+    }, {
+        "name": "Lat",
+        "alias": "Lat",
+        "type": "esriFieldTypeDouble",
+        "entity": "e0"
+    }, {
+        "name": "Long_",
+        "alias": "Long_",
+        "type": "esriFieldTypeDouble",
+        "entity": "e0"
+    }, {
+        "name": "Shape",
+        "alias": "Shape",
+        "type": "esriFieldTypeGeometry",
+        "geometryType": "esriGeometryPoint",
+        "extent": {
+            "xmin": -122.03997802699996,
+            "ymin": 26.640686035000044,
+            "xmax": -72.25170898399995,
+            "ymax": 44.299926758000026,
+            "spatialReference": {
+                "wkid": 4326
+            }
+        },
+        "entity": "e0"
+    }, {
+        "name": "esri_oid",
+        "alias": "esri_oid",
+        "type": "esriFieldTypeOID",
+        "entity": "e0"
+    }],
+    "entities": {
+        "e0": {
+            "keyField": "OBJECTID",
+            "featureLayer": {
+                "url": "https://insightsservicesdev.arcgis.com/gKIM0DxFtj9ijTZo/arcgis/rest/services/2659f250/WorkspaceServer/dataset/4D2DAAAC-9C2B-E811-80C3-0003FF2A4867/FeatureServer/e0"
+            }
+        }
+    },
+    "state": "live",
+    "requiredItems": [{
+        "id": "db065812f0f84f9d9ad1e99aee7e56b8"
+    }],
+    "type": "ads",
+    "relationalCatalogService": "gKIM0DxFtj9ijTZo",
+    "folders": {
+        "InvoiceDat": ["year_InvoiceDat", "quarter_InvoiceDat", "month_InvoiceDat", "dayofmonth_InvoiceDat", "dayofweek_InvoiceDat", "hour_InvoiceDat", "minute_InvoiceDat"]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "f6d9ac4f9f3440a7967e2f9bdc470b12",
+    "title": "PythonTest",
+    "isInvitationOnly": true,
+    "owner": "clint.dow",
+    "description": null,
+    "snippet": "Testing stuff for Python",
+    "tags": ["Python"],
+    "phone": null,
+    "sortField": "title",
+    "sortOrder": "asc",
+    "isViewOnly": false,
+    "thumbnail": "thumbnail1534187470662.png",
+    "created": 1534187475000,
+    "modified": 1534187476000,
+    "access": "private",
+    "capabilities": [],
+    "isFav": false,
+    "isReadOnly": false,
+    "protected": false,
+    "autoJoin": false,
+    "notificationsEnabled": false,
+    "provider": null,
+    "providerGroupName": null,
+    "userMembership": {
+        "username": "clint.dow",
+        "memberType": "owner",
+        "applications": 0
+    },
+    "collaborationInfo": {}
+}

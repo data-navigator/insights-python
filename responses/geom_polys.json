@@ -1,0 +1,20 @@
+{
+    "geometryType": "esriGeometryPolygon",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [{
+        "name": "OBJECTID",
+        "alias": "OBJECTID",
+        "type": "esriFieldTypeInteger"
+    }, {
+        "name": "FIPS",
+        "alias": "FIPS",
+        "type": "esriFieldTypeString"
+    }],
+    "globalIdFieldName": "",
+    "objectIdFieldName": "esri_oid",
+    "exceededTransferLimit": false,
+    "features": []
+}

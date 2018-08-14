@@ -5,7 +5,7 @@
 from .. import Dataset
 
 
-def data(uri: str) -> Dataset:
+async def data(uri: str) -> Dataset:
     """[summary]
 
     [description]

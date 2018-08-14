@@ -1,0 +1,13 @@
+{
+    "userEntitlementsString": {
+        "username": "clint.dow",
+        "lastLogin": -1,
+        "disconnected": false,
+        "entitlements": ["Insights"],
+        "licenses": ["Insights,0,en6030234462,06-feb-2019"],
+        "nonce": "abc",
+        "timestamp": 1534182605843
+    },
+    "signature":
+    "nWg38yq9njstonhlAqREvF4pr6XalEglfEkezFBVMuOjd0qYYdymUssGS1nbu7bH + /ELDiLBa+tWH6oPqebL8njA3CK3OLuNCra/xIFRzvzB / zniaID7iCHqDinjCiERzaSDdEYccEJBXRZUDcdx2umXosye6tSEDMoZFxI4C6H3SmIj6TCprbkXUiZsf0xyjRbMQ + FmS5jgY34BOlUzWcaJtRQOG5d / 1 fUj0KfDmxZZ0aIQFhiwmYUii4NY3JtztA6F2fBq1CZRmwaHzBz3RCSnrgEHFp4b8gHvGGPkC7shCNG8DRjhkEzWwLJg6431Iu / r2tgailc + yfbUzowdOA == "
+}

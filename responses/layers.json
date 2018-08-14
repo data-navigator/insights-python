@@ -1,0 +1,29 @@
+{
+    "operationalLayers": [],
+    "baseMap": {
+        "baseMapLayers": [{
+            "id": "layer0",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "url": "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "World Dark Gray Canvas Base"
+        }, {
+            "id": "World_Dark_Gray_Reference_8618",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "url": "https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "World Dark Gray Reference",
+            "isReference": true
+        }],
+        "title": "Dark Gray Canvas"
+    },
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "authoringApp": "WebMapViewer",
+    "authoringAppVersion": "4.1",
+    "version": "2.4"
+}

@@ -4,6 +4,7 @@
 
 import enum
 from typing import Iterator
+from arcgis.gis import Item
 from .card import Card
 from .dataset import Dataset
 from .page import Page
@@ -23,18 +24,26 @@ class View(enum.Enum):
 
 class Workbook:
     """Represents a hosted ArcGIS Insights Workbook."""
-    def __init__(self):
-        pass
+    def __init__(self, item: Item) -> None:
+        self._item = item
 
     @property
-    def owner(self):
+    def workspace_id(self) -> str:
+        """[summary]
+
+        [description]
+        """
+        return self._item.name
+
+    @property
+    def owner(self) -> str:
         """[summary]
 
         [description]
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return self._item.owner
 
     @property
     def overview(self):
@@ -127,7 +136,7 @@ class Workbook:
         raise NotImplementedError
 
     @property
-    def view(self):
+    def view(self) -> View:
         """[summary]
 
         [description]

@@ -6,9 +6,10 @@ import enum
 from typing import Iterator
 from .card import Card
 from .model import Model
+from .theme import Theme
 
 
-class Sizes(enum.Enum):
+class Size(enum.Enum):
     """[summary]
 
     [description]
@@ -62,7 +63,7 @@ class Page:
         raise NotImplementedError
 
     @property
-    def size(self):
+    def size(self) -> Size:
         """[summary]
 
         [description]
@@ -72,7 +73,7 @@ class Page:
         raise NotImplementedError
 
     @property
-    def orientation(self):
+    def orientation(self) -> Orientation:
         """[summary]
 
         [description]
@@ -82,17 +83,7 @@ class Page:
         raise NotImplementedError
 
     @property
-    def background(self):
-        """[summary]
-
-        [description]
-
-        :raises NotImplementedError: [description]
-        """
-        raise NotImplementedError
-
-    @property
-    def foreground(self):
+    def theme(self) -> Theme:
         """[summary]
 
         [description]
