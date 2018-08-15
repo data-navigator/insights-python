@@ -3,8 +3,9 @@
 """A Page within an ArcGIS Insights Workbook."""
 
 import enum
-from typing import Iterator
+from typing import Iterable
 from .card import Card
+from .dataset import Dataset
 from .model import Model
 from .theme import Theme
 
@@ -39,18 +40,34 @@ class Orientation(enum.Enum):
 
 class Page:
     """Represents an individual page within an ArcGIS Insights Workbook."""
-    def __init__(self):
-        pass
+    def __init__(self, **page: dict) -> None:
+        self._cards = page['cards']
+        self._contents = page['contents']
+        self._model = page['model']
+        self._title = page['title']
+        self._layout = page['layout']
+        self._page = page
 
     @property
-    def cards(self) -> Iterator[Card]:
+    def cards(self) -> Iterable[Card]:
         """[summary]
 
         [description]
 
-        :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        # TODO zip Cards with layout
+        return [Card(**card) for card in self._cards]
+
+    @property
+    def datasets(self) -> Iterable[Dataset]:
+        """[summary]
+
+        [description]
+
+        :return: [description]
+        :rtype: Iterable[Dataset]
+        """
+        return [Dataset(**dataset) for dataset in self._contents]
 
     @property
     def model(self) -> Model:
@@ -60,7 +77,7 @@ class Page:
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return self._model
 
     @property
     def size(self) -> Size:
@@ -91,3 +108,14 @@ class Page:
         :raises NotImplementedError: [description]
         """
         raise NotImplementedError
+
+    @property
+    def title(self) -> str:
+        """[summary]
+
+        [description]
+
+        :return: [description]
+        :rtype: str
+        """
+        return self._title

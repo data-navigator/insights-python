@@ -1,17 +1,14 @@
 """Generic data for ArcGIS Insights."""
 
-from typing import Iterator
-from .field import Field
-
 
 class Dataset:
     """TODO"""
+    def __init__(self, **dataset):
+        self.dataset = dataset['dataset']
+        self.result = dataset.get('result', False)
 
-    @property
-    def fields(self) -> Iterator[Field]:
-        """TODO"""
-        raise NotImplementedError
+    def __str__(self):
+        return self.dataset
 
-    def origin(self) -> str:
-        """TODO"""
-        raise NotImplementedError
+    def __repr__(self):
+        return str(self)

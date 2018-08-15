@@ -1,3 +1,5 @@
 https://insights.mapsdevext.arcgis.com/sharing/rest/community/users/clint.dow
 
 https://insights.mapsdevext.arcgis.com/sharing/rest/search?num=100&start=1&sortField=modified&sortOrder=desc&q=+type:"Insights Workbook" +orgid:gKIM0DxFtj9ijTZo +type:"Insights Workbook" +owner:"clint.dow"&f=json&token=pnnYFFyw0vhKtm8kqQDw8COY5OSqMNPXfG3Emf69qlPkvPUAus3UF8SY_2wQ1NDlZ6EcV_d4k-VxyhDh10wi7qfUZr_Umz5c-b2Vx8qvn4MrnE-U7ZiLh_fvcbRlGWMmSaWYMI7CHxoGRdYFoyvA2nIhPv1Llwq3ivxh2C5_qZNPp9dLiwaE_eW7BD6X3AHcTWbXGP9kTHKodlBAhWDaxbxClWyfw7-3CRo8BXAG2EY.
+
+https://esri.github.io/arcgis-python-api/apidoc/html/arcgis.features.toc.html?highlight=pandas#arcgis.features.Table.query

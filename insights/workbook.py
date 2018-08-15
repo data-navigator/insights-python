@@ -3,7 +3,7 @@
 """An ArcGIS Insights Workbook"""
 
 import enum
-from typing import Iterator
+from typing import Iterable
 from arcgis.gis import Item
 from .card import Card
 from .dataset import Dataset
@@ -24,8 +24,13 @@ class View(enum.Enum):
 
 class Workbook:
     """Represents a hosted ArcGIS Insights Workbook."""
-    def __init__(self, item: Item) -> None:
-        self._item = item
+    def __init__(self, workbook: Item) -> None:
+        self._item_data = workbook.get_data()
+        self._url = workbook.url
+        self._owner = workbook.owner
+        self._id = workbook.name
+        self._workbook = workbook
+        print(self._item_data.keys())
 
     @property
     def workspace_id(self) -> str:
@@ -33,7 +38,7 @@ class Workbook:
 
         [description]
         """
-        return self._item.name
+        return self._id
 
     @property
     def owner(self) -> str:
@@ -43,7 +48,7 @@ class Workbook:
 
         :raises NotImplementedError: [description]
         """
-        return self._item.owner
+        return self._owner
 
     @property
     def overview(self):
@@ -53,7 +58,7 @@ class Workbook:
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return self._workbook.overview
 
     @property
     def folder(self):
@@ -63,7 +68,7 @@ class Workbook:
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return self._workbook.folder
 
     @property
     def tags(self):
@@ -73,7 +78,7 @@ class Workbook:
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return self._workbook.tags
 
     @property
     def credits(self):
@@ -106,24 +111,24 @@ class Workbook:
         raise NotImplementedError
 
     @property
-    def pages(self) -> Iterator[Page]:
+    def pages(self) -> Iterable[Page]:
         """[summary]
 
         [description]
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return [Page(**page) for page in self._item_data['pages']]
 
     @property
-    def cards(self) -> Iterator[Card]:
+    def cards(self) -> Iterable[Card]:
         """[summary]
 
         [description]
 
         :raises NotImplementedError: [description]
         """
-        raise NotImplementedError
+        return [card for page in self.pages for card in page.cards]
 
     @property
     def title(self):
@@ -209,3 +214,14 @@ class Workbook:
         :raises NotImplementedError: [description]
         """
         raise NotImplementedError
+
+    @property
+    def datasets(self) -> Iterable[Dataset]:
+        """[summary]
+
+        [description]
+
+        :return: [description]
+        :rtype: Iterator[Dataset]
+        """
+        return [dataset for page in self.pages for dataset in page.datasets]
